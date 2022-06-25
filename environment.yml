@@ -1,0 +1,6 @@
+name: quant_crypto
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - numpy

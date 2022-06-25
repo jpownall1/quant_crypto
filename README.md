@@ -1,4 +1,4 @@
-project_name
+Quant Crypto
 ==============================
 
 A quantitative analysis and trading of crypto currencies.
